@@ -1,1 +1,1 @@
-Bu proje Niğde Yapay Zeka Hackthon'nunda CSS takımı tarafından hazırlanmıştır. Proje; Göçmenlerin Suç İşleme ve İşlememe Eğilimlerini Tahmin Etmek üzerinedir. Veri seti tamamiyle random şekilde oluşturulmuştur.
+Bu proje Niğde Yapay Zeka Hackthon'unda CSS takımı tarafından hazırlanmıştır. Proje; Göçmenlerin Suç İşleme ve İşlememe Eğilimlerini Tahmin Etmek üzerinedir. Veri seti tamamiyle random şekilde oluşturulmuştur.
